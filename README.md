@@ -19,3 +19,5 @@ Functioning product that works as a website on both desktop and mobile. Dynamic 
 Personally furthered our individual expertise in these languages. Explored unique APIs such as OpenBank. Examined a range of approaches to try and obtain and handle unique data, such as one's lifestyle patterns.
 
 ## What's next for Goodness
+
+https://github.com/coisin/goodness-frontend
