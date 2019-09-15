@@ -1,0 +1,610 @@
+[
+    {
+        "code": "COUNTRY NAME",
+        "emissions_per_capita": "million metric tons per capita"
+    },
+    {
+        "code": "CHN",
+        "emissions_per_capita": 4.58
+    },
+    {
+        "code": "USA",
+        "emissions_per_capita": 19.78
+    },
+    {
+        "code": "RUS",
+        "emissions_per_capita": 12
+    },
+    {
+        "code": "IND",
+        "emissions_per_capita": 1.16
+    },
+    {
+        "code": "JPN",
+        "emissions_per_capita": 9.78
+    },
+    {
+        "code": "DEU",
+        "emissions_per_capita": 10.4
+    },
+    {
+        "code": "CAN",
+        "emissions_per_capita": 18.81
+    },
+    {
+        "code": "GBR",
+        "emissions_per_capita": 9.66
+    },
+    {
+        "code": "null-South Korea",
+        "emissions_per_capita": 10.53
+    },
+    {
+        "code": "IRN",
+        "emissions_per_capita": 7.25
+    },
+    {
+        "code": "ITA",
+        "emissions_per_capita": 8.05
+    },
+    {
+        "code": "ZAF",
+        "emissions_per_capita": 10.04
+    },
+    {
+        "code": "MEX",
+        "emissions_per_capita": 4.05
+    },
+    {
+        "code": "SAU",
+        "emissions_per_capita": 15.7
+    },
+    {
+        "code": "FRA",
+        "emissions_per_capita": 6.6
+    },
+    {
+        "code": "AUS",
+        "emissions_per_capita": 20.58
+    },
+    {
+        "code": "BRA",
+        "emissions_per_capita": 2.01
+    },
+    {
+        "code": "ESP",
+        "emissions_per_capita": 9.22
+    },
+    {
+        "code": "UKR",
+        "emissions_per_capita": 7.05
+    },
+    {
+        "code": "POL",
+        "emissions_per_capita": 7.87
+    },
+    {
+        "code": "TWN",
+        "emissions_per_capita": 13.19
+    },
+    {
+        "code": "IDN",
+        "emissions_per_capita": 1.21
+    },
+    {
+        "code": "NLD",
+        "emissions_per_capita": 15.79
+    },
+    {
+        "code": "THA",
+        "emissions_per_capita": 3.79
+    },
+    {
+        "code": "TUR",
+        "emissions_per_capita": 3.35
+    },
+    {
+        "code": "KAZ",
+        "emissions_per_capita": 14.02
+    },
+    {
+        "code": "MYS",
+        "emissions_per_capita": 6.7
+    },
+    {
+        "code": "ARG",
+        "emissions_per_capita": 4.06
+    },
+    {
+        "code": "VEN",
+        "emissions_per_capita": 5.93
+    },
+    {
+        "code": "EGY",
+        "emissions_per_capita": 1.92
+    },
+    {
+        "code": "ARE",
+        "emissions_per_capita": 35.05
+    },
+    {
+        "code": "BEL",
+        "emissions_per_capita": 14.22
+    },
+    {
+        "code": "SGP",
+        "emissions_per_capita": 31.41
+    },
+    {
+        "code": "PAK",
+        "emissions_per_capita": 0.78
+    },
+    {
+        "code": "UZB",
+        "emissions_per_capita": 4.43
+    },
+    {
+        "code": "CZE",
+        "emissions_per_capita": 11.36
+    },
+    {
+        "code": "GRC",
+        "emissions_per_capita": 10.02
+    },
+    {
+        "code": "NGA",
+        "emissions_per_capita": 0.77
+    },
+    {
+        "code": "IRQ",
+        "emissions_per_capita": 3.69
+    },
+    {
+        "code": "ROU",
+        "emissions_per_capita": 4.42
+    },
+    {
+        "code": "DZA",
+        "emissions_per_capita": 2.83
+    },
+    {
+        "code": "VNM",
+        "emissions_per_capita": 1.09
+    },
+    {
+        "code": "HKG",
+        "emissions_per_capita": 12.23
+    },
+    {
+        "code": "null-North Korea",
+        "emissions_per_capita": 3.36
+    },
+    {
+        "code": "AUT",
+        "emissions_per_capita": 9.32
+    },
+    {
+        "code": "KWT",
+        "emissions_per_capita": 30.92
+    },
+    {
+        "code": "PHL",
+        "emissions_per_capita": 0.81
+    },
+    {
+        "code": "ISR",
+        "emissions_per_capita": 9.8
+    },
+    {
+        "code": "BLR",
+        "emissions_per_capita": 6.68
+    },
+    {
+        "code": "CHL",
+        "emissions_per_capita": 4.01
+    },
+    {
+        "code": "COL",
+        "emissions_per_capita": 1.42
+    },
+    {
+        "code": "PRT",
+        "emissions_per_capita": 5.82
+    },
+    {
+        "code": "DNK",
+        "emissions_per_capita": 10.85
+    },
+    {
+        "code": "HUN",
+        "emissions_per_capita": 5.88
+    },
+    {
+        "code": "FIN",
+        "emissions_per_capita": 11.15
+    },
+    {
+        "code": "SWE",
+        "emissions_per_capita": 6.36
+    },
+    {
+        "code": "QAT",
+        "emissions_per_capita": 61.19
+    },
+    {
+        "code": "LBY",
+        "emissions_per_capita": 9.07
+    },
+    {
+        "code": "null-Former Serbia and Montenegro",
+        "emissions_per_capita": 4.81
+    },
+    {
+        "code": "SYR",
+        "emissions_per_capita": 2.71
+    },
+    {
+        "code": "TKM",
+        "emissions_per_capita": 10.03
+    },
+    {
+        "code": "BGR",
+        "emissions_per_capita": 6.63
+    },
+    {
+        "code": "TTO",
+        "emissions_per_capita": 44.32
+    },
+    {
+        "code": "IRL",
+        "emissions_per_capita": 11.54
+    },
+    {
+        "code": "CHE",
+        "emissions_per_capita": 6.06
+    },
+    {
+        "code": "NOR",
+        "emissions_per_capita": 9.79
+    },
+    {
+        "code": "BGD",
+        "emissions_per_capita": 0.29
+    },
+    {
+        "code": "PRI",
+        "emissions_per_capita": 10.55
+    },
+    {
+        "code": "AZE",
+        "emissions_per_capita": 4.94
+    },
+    {
+        "code": "NZL",
+        "emissions_per_capita": 9.38
+    },
+    {
+        "code": "SVK",
+        "emissions_per_capita": 7.01
+    },
+    {
+        "code": "OMN",
+        "emissions_per_capita": 11.19
+    },
+    {
+        "code": "MAR",
+        "emissions_per_capita": 1.04
+    },
+    {
+        "code": "PER",
+        "emissions_per_capita": 1.05
+    },
+    {
+        "code": "CUB",
+        "emissions_per_capita": 2.52
+    },
+    {
+        "code": "BHR",
+        "emissions_per_capita": 38.44
+    },
+    {
+        "code": "ECU",
+        "emissions_per_capita": 1.88
+    },
+    {
+        "code": "HRV",
+        "emissions_per_capita": 4.77
+    },
+    {
+        "code": "AGO",
+        "emissions_per_capita": 1.77
+    },
+    {
+        "code": "TUN",
+        "emissions_per_capita": 2.06
+    },
+    {
+        "code": "JOR",
+        "emissions_per_capita": 3.37
+    },
+    {
+        "code": "EST",
+        "emissions_per_capita": 14.06
+    },
+    {
+        "code": "YEM",
+        "emissions_per_capita": 0.84
+    },
+    {
+        "code": "SVN",
+        "emissions_per_capita": 8.77
+    },
+    {
+        "code": "DOM",
+        "emissions_per_capita": 1.89
+    },
+    {
+        "code": "BIH",
+        "emissions_per_capita": 3.87
+    },
+    {
+        "code": "LTU",
+        "emissions_per_capita": 4.39
+    },
+    {
+        "code": "PAN",
+        "emissions_per_capita": 4.52
+    },
+    {
+        "code": "LBN",
+        "emissions_per_capita": 3.69
+    },
+    {
+        "code": "null-Burma",
+        "emissions_per_capita": 0.27
+    },
+    {
+        "code": "null-Virgin Islands, U.S.",
+        "emissions_per_capita": 118.3
+    },
+    {
+        "code": "LKA",
+        "emissions_per_capita": 0.61
+    },
+    {
+        "code": "LUX",
+        "emissions_per_capita": 26.28
+    },
+    {
+        "code": "BOL",
+        "emissions_per_capita": 1.38
+    },
+    {
+        "code": "SDN",
+        "emissions_per_capita": 0.32
+    },
+    {
+        "code": "JAM",
+        "emissions_per_capita": 4.36
+    },
+    {
+        "code": "GTM",
+        "emissions_per_capita": 0.9
+    },
+    {
+        "code": "ANT",
+        "emissions_per_capita": 49.13
+    },
+    {
+        "code": "KEN",
+        "emissions_per_capita": 0.3
+    },
+    {
+        "code": "ARM",
+        "emissions_per_capita": 3.48
+    },
+    {
+        "code": "ZWE",
+        "emissions_per_capita": 0.84
+    },
+    {
+        "code": "BRN",
+        "emissions_per_capita": 26.89
+    },
+    {
+        "code": "CYP",
+        "emissions_per_capita": 11.37
+    },
+    {
+        "code": "LVA",
+        "emissions_per_capita": 3.84
+    },
+    {
+        "code": "MNG",
+        "emissions_per_capita": 2.91
+    },
+    {
+        "code": "MDA",
+        "emissions_per_capita": 1.74
+    },
+    {
+        "code": "HND",
+        "emissions_per_capita": 1.02
+    },
+    {
+        "code": "TJK",
+        "emissions_per_capita": 1.06
+    },
+    {
+        "code": "GHA",
+        "emissions_per_capita": 0.32
+    },
+    {
+        "code": "MKD",
+        "emissions_per_capita": 3.5
+    },
+    {
+        "code": "CMR",
+        "emissions_per_capita": 0.41
+    },
+    {
+        "code": "URY",
+        "emissions_per_capita": 1.85
+    },
+    {
+        "code": "null-Cote d'Ivoire (IvoryCoast)",
+        "emissions_per_capita": 0.36
+    },
+    {
+        "code": "SLV",
+        "emissions_per_capita": 0.92
+    },
+    {
+        "code": "CRI",
+        "emissions_per_capita": 1.41
+    },
+    {
+        "code": "SEN",
+        "emissions_per_capita": 0.47
+    },
+    {
+        "code": "null-Congo -Brazzaville",
+        "emissions_per_capita": 1.49
+    },
+    {
+        "code": "ETH",
+        "emissions_per_capita": 0.07
+    },
+    {
+        "code": "null-Bahamas, The",
+        "emissions_per_capita": 16.48
+    },
+    {
+        "code": "MOZ",
+        "emissions_per_capita": 0.24
+    },
+    {
+        "code": "KGZ",
+        "emissions_per_capita": 0.95
+    },
+    {
+        "code": "GNQ",
+        "emissions_per_capita": 8.37
+    },
+    {
+        "code": "ALB",
+        "emissions_per_capita": 1.31
+    },
+    {
+        "code": "TZA",
+        "emissions_per_capita": 0.12
+    },
+    {
+        "code": "GEO",
+        "emissions_per_capita": 1
+    },
+    {
+        "code": "PNG",
+        "emissions_per_capita": 0.82
+    },
+    {
+        "code": "NIC",
+        "emissions_per_capita": 0.82
+    },
+    {
+        "code": "GIB",
+        "emissions_per_capita": 160.22
+    },
+    {
+        "code": "GAB",
+        "emissions_per_capita": 3.04
+    },
+    {
+        "code": "BWA",
+        "emissions_per_capita": 2.39
+    },
+    {
+        "code": "MUS",
+        "emissions_per_capita": 3.22
+    },
+    {
+        "code": "PRY",
+        "emissions_per_capita": 0.58
+    },
+    {
+        "code": "ISL",
+        "emissions_per_capita": 11.5
+    },
+    {
+        "code": "MLT",
+        "emissions_per_capita": 7.78
+    },
+    {
+        "code": "MRT",
+        "emissions_per_capita": 0.95
+    },
+    {
+        "code": "NPL",
+        "emissions_per_capita": 0.11
+    },
+    {
+        "code": "null-Reunion",
+        "emissions_per_capita": null
+    },
+    {
+        "code": "NAM",
+        "emissions_per_capita": 1.32
+    },
+    {
+        "code": "BEN",
+        "emissions_per_capita": 0.34
+    },
+    {
+        "code": "NCL",
+        "emissions_per_capita": 11.85
+    },
+    {
+        "code": "MDG",
+        "emissions_per_capita": 0.14
+    },
+    {
+        "code": "ZMB",
+        "emissions_per_capita": 0.23
+    },
+    {
+        "code": "TGO",
+        "emissions_per_capita": 0.45
+    },
+    {
+        "code": "null-Democratic Republic of the Congo",
+        "emissions_per_capita": 0.04
+    },
+    {
+        "code": "MTQ",
+        "emissions_per_capita": null
+    },
+    {
+        "code": "null-Macau",
+        "emissions_per_capita": 5.02
+    },
+    {
+        "code": "GLP",
+        "emissions_per_capita": null
+    },
+    {
+        "code": "SUR",
+        "emissions_per_capita": 4.31
+    },
+    {
+        "code": "DJI",
+        "emissions_per_capita": 4.12
+    },
+    {
+        "code": "GUM",
+        "emissions_per_capita": 11.06
+    },
+    {
+        "code": "HTI",
+        "emissions_per_capita": 0.21
+    }
+]

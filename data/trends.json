@@ -1,0 +1,10 @@
+{
+  "types": {
+    "wasteManagement": "waste generated per person (kg)"
+  },
+  "wasteManagement": {
+    "average": 0.74,
+    "min": 0.11,
+    "max": 4.54
+  }
+}

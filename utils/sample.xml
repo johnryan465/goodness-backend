@@ -1,0 +1,611 @@
+<response>
+	<input_location />
+		<input_location_mode> 5 </input_location_mode>
+		<input_location_country />
+			<input_size> 0 </input_size>
+			<input_income> 1 </input_income>
+			<input_population> 281260057 </input_population>
+			<input_changed> 0 </input_changed>
+			<input_footprint_household_adults> 2.5 </input_footprint_household_adults>
+			<input_footprint_household_children> 0 </input_footprint_household_children>
+			<input_footprint_transportation_num_vehicles> 2 </input_footprint_transportation_num_vehicles>
+			<input_footprint_transportation_miles1> 12500 </input_footprint_transportation_miles1>
+			<input_footprint_transportation_mpg1> 22 </input_footprint_transportation_mpg1>
+			<input_footprint_transportation_fuel1> 1 </input_footprint_transportation_fuel1>
+			<input_footprint_transportation_miles2> 10200 </input_footprint_transportation_miles2>
+			<input_footprint_transportation_mpg2> 22 </input_footprint_transportation_mpg2>
+			<input_footprint_transportation_fuel2> 1 </input_footprint_transportation_fuel2>
+			<input_footprint_transportation_miles3> 0 </input_footprint_transportation_miles3>
+			<input_footprint_transportation_mpg3> 22 </input_footprint_transportation_mpg3>
+			<input_footprint_transportation_fuel3> 1 </input_footprint_transportation_fuel3>
+			<input_footprint_transportation_miles4> 0 </input_footprint_transportation_miles4>
+			<input_footprint_transportation_mpg4> 22 </input_footprint_transportation_mpg4>
+			<input_footprint_transportation_fuel4> 1 </input_footprint_transportation_fuel4>
+			<input_footprint_transportation_miles5> 0 </input_footprint_transportation_miles5>
+			<input_footprint_transportation_mpg5> 22 </input_footprint_transportation_mpg5>
+			<input_footprint_transportation_fuel5> 1 </input_footprint_transportation_fuel5>
+			<input_footprint_transportation_miles6> 0 </input_footprint_transportation_miles6>
+			<input_footprint_transportation_mpg6> 22 </input_footprint_transportation_mpg6>
+			<input_footprint_transportation_fuel6> 1 </input_footprint_transportation_fuel6>
+			<input_footprint_transportation_miles7> 0 </input_footprint_transportation_miles7>
+			<input_footprint_transportation_mpg7> 22 </input_footprint_transportation_mpg7>
+			<input_footprint_transportation_fuel7> 1 </input_footprint_transportation_fuel7>
+			<input_footprint_transportation_miles8> 0 </input_footprint_transportation_miles8>
+			<input_footprint_transportation_mpg8> 22 </input_footprint_transportation_mpg8>
+			<input_footprint_transportation_fuel8> 1 </input_footprint_transportation_fuel8>
+			<input_footprint_transportation_miles9> 0 </input_footprint_transportation_miles9>
+			<input_footprint_transportation_mpg9> 22 </input_footprint_transportation_mpg9>
+			<input_footprint_transportation_fuel9> 1 </input_footprint_transportation_fuel9>
+			<input_footprint_transportation_miles10> 0 </input_footprint_transportation_miles10>
+			<input_footprint_transportation_mpg10> 22 </input_footprint_transportation_mpg10>
+			<input_footprint_transportation_fuel10> 1 </input_footprint_transportation_fuel10>
+			<input_footprint_transportation_groundtype> 0 </input_footprint_transportation_groundtype>
+			<input_footprint_transportation_publictrans> 412.911724 </input_footprint_transportation_publictrans>
+			<input_footprint_transportation_bus> 165.16469 </input_footprint_transportation_bus>
+			<input_footprint_transportation_transit> 123.873517 </input_footprint_transportation_transit>
+			<input_footprint_transportation_commuter> 82.582345 </input_footprint_transportation_commuter>
+			<input_footprint_transportation_intercity> 41.291172 </input_footprint_transportation_intercity>
+			<input_footprint_transportation_airtype> 0 </input_footprint_transportation_airtype>
+			<input_footprint_transportation_airtotal> 3700 </input_footprint_transportation_airtotal>
+			<input_footprint_transportation_airshort> 9 </input_footprint_transportation_airshort>
+			<input_footprint_transportation_airmedium> 1 </input_footprint_transportation_airmedium>
+			<input_footprint_transportation_airlong> 0 </input_footprint_transportation_airlong>
+			<input_footprint_transportation_airextended> 0 </input_footprint_transportation_airextended>
+			<input_footprint_housing_cdd> 1278 </input_footprint_housing_cdd>
+			<input_footprint_housing_hdd> 4506 </input_footprint_housing_hdd>
+			<input_footprint_housing_electricity_type> 0 </input_footprint_housing_electricity_type>
+			<input_footprint_housing_electricity_dollars> 1070 </input_footprint_housing_electricity_dollars>
+			<input_footprint_housing_electricity_kwh> 10700 </input_footprint_housing_electricity_kwh>
+			<input_footprint_housing_cleanpercent> 0 </input_footprint_housing_cleanpercent>
+			<input_footprint_housing_naturalgas_type> 0 </input_footprint_housing_naturalgas_type>
+			<input_footprint_housing_naturalgas_dollars> 550 </input_footprint_housing_naturalgas_dollars>
+			<input_footprint_housing_naturalgas_therms> 433.070866 </input_footprint_housing_naturalgas_therms>
+			<input_footprint_housing_naturalgas_cuft> 43307.086614 </input_footprint_housing_naturalgas_cuft>
+			<input_footprint_housing_heatingoil_type> 0 </input_footprint_housing_heatingoil_type>
+			<input_footprint_housing_heatingoil_dollars> 200 </input_footprint_housing_heatingoil_dollars>
+			<input_footprint_housing_heatingoil_gallons> 66.666667 </input_footprint_housing_heatingoil_gallons>
+			<input_footprint_housing_heatingoil_dollars_per_gallon> 3
+			</input_footprint_housing_heatingoil_dollars_per_gallon>
+			<input_footprint_housing_squarefeet> 1850 </input_footprint_housing_squarefeet>
+			<input_footprint_housing_watersewage> 381.5 </input_footprint_housing_watersewage>
+			<input_footprint_housing_gco2_per_kwh> 590 </input_footprint_housing_gco2_per_kwh>
+			<input_footprint_shopping_food_meatfisheggs_default> 1357.5
+			</input_footprint_shopping_food_meatfisheggs_default>
+			<input_footprint_shopping_food_meat_beefpork_default> 617.5
+			</input_footprint_shopping_food_meat_beefpork_default>
+			<input_footprint_shopping_food_meat_poultry_default> 412.5
+			</input_footprint_shopping_food_meat_poultry_default>
+			<input_footprint_shopping_food_meat_fish_default> 182.5 </input_footprint_shopping_food_meat_fish_default>
+			<input_footprint_shopping_food_meat_other_default> 145 </input_footprint_shopping_food_meat_other_default>
+			<input_footprint_shopping_food_dairy_default> 715 </input_footprint_shopping_food_dairy_default>
+			<input_footprint_shopping_food_fruitvegetables_default> 677.5
+			</input_footprint_shopping_food_fruitvegetables_default>
+			<input_footprint_shopping_food_cereals_default> 1672.5 </input_footprint_shopping_food_cereals_default>
+			<input_footprint_shopping_food_otherfood_default> 1840 </input_footprint_shopping_food_otherfood_default>
+			<input_footprint_shopping_food_meattype> 0 </input_footprint_shopping_food_meattype>
+			<input_footprint_shopping_food_meatfisheggs> 1357.5 </input_footprint_shopping_food_meatfisheggs>
+			<input_footprint_shopping_food_meat_beefpork> 617.5 </input_footprint_shopping_food_meat_beefpork>
+			<input_footprint_shopping_food_meat_poultry> 412.5 </input_footprint_shopping_food_meat_poultry>
+			<input_footprint_shopping_food_meat_fish> 182.5 </input_footprint_shopping_food_meat_fish>
+			<input_footprint_shopping_food_meat_other> 145 </input_footprint_shopping_food_meat_other>
+			<input_footprint_shopping_food_dairy> 715 </input_footprint_shopping_food_dairy>
+			<input_footprint_shopping_food_fruitvegetables> 677.5 </input_footprint_shopping_food_fruitvegetables>
+			<input_footprint_shopping_food_cereals> 1672.5 </input_footprint_shopping_food_cereals>
+			<input_footprint_shopping_food_otherfood> 1840 </input_footprint_shopping_food_otherfood>
+			<input_footprint_shopping_goods_default_furnitureappliances> 317.734402
+			</input_footprint_shopping_goods_default_furnitureappliances>
+			<input_footprint_shopping_goods_default_clothing> 305.242214
+			</input_footprint_shopping_goods_default_clothing>
+			<input_footprint_shopping_goods_default_other_entertainment> 182.534238
+			</input_footprint_shopping_goods_default_other_entertainment>
+			<input_footprint_shopping_goods_default_other_office> 39.126187
+			</input_footprint_shopping_goods_default_other_office>
+			<input_footprint_shopping_goods_default_other_personalcare> 91.076902
+			</input_footprint_shopping_goods_default_other_personalcare>
+			<input_footprint_shopping_goods_default_other_autoparts> 39.091188
+			</input_footprint_shopping_goods_default_other_autoparts>
+			<input_footprint_shopping_goods_default_other_medical> 155.170354
+			</input_footprint_shopping_goods_default_other_medical>
+			<input_footprint_shopping_goods_type> 0 </input_footprint_shopping_goods_type>
+			<input_footprint_shopping_goods_total> 1129.975485 </input_footprint_shopping_goods_total>
+			<input_footprint_shopping_goods_furnitureappliances> 317.734402
+			</input_footprint_shopping_goods_furnitureappliances>
+			<input_footprint_shopping_goods_clothing> 305.242214 </input_footprint_shopping_goods_clothing>
+			<input_footprint_shopping_goods_other_type> 0 </input_footprint_shopping_goods_other_type>
+			<input_footprint_shopping_goods_other_total> 506.998869 </input_footprint_shopping_goods_other_total>
+			<input_footprint_shopping_goods_other_entertainment> 182.534238
+			</input_footprint_shopping_goods_other_entertainment>
+			<input_footprint_shopping_goods_other_office> 39.126187 </input_footprint_shopping_goods_other_office>
+			<input_footprint_shopping_goods_other_personalcare> 91.076902
+			</input_footprint_shopping_goods_other_personalcare>
+			<input_footprint_shopping_goods_other_autoparts> 39.091188 </input_footprint_shopping_goods_other_autoparts>
+			<input_footprint_shopping_goods_other_medical> 155.170354 </input_footprint_shopping_goods_other_medical>
+			<input_footprint_shopping_services_type> 0 </input_footprint_shopping_services_type>
+			<input_footprint_shopping_services_total> 2066.497557 </input_footprint_shopping_services_total>
+			<input_footprint_shopping_services_healthcare> 804.093634 </input_footprint_shopping_services_healthcare>
+			<input_footprint_shopping_services_education> 118.17205 </input_footprint_shopping_services_education>
+			<input_footprint_shopping_services_communications> 100.044191
+			</input_footprint_shopping_services_communications>
+			<input_footprint_shopping_services_vehicleservices> 155.23351
+			</input_footprint_shopping_services_vehicleservices>
+			<input_footprint_shopping_services_finance> 449.826839 </input_footprint_shopping_services_finance>
+			<input_footprint_shopping_services_household> 24.812368 </input_footprint_shopping_services_household>
+			<input_footprint_shopping_services_charity> 131.458436 </input_footprint_shopping_services_charity>
+			<input_footprint_shopping_services_miscservices> 99.354201 </input_footprint_shopping_services_miscservices>
+			<input_takeaction_more_efficient_vehicle> 0 </input_takeaction_more_efficient_vehicle>
+			<input_takeaction_more_efficient_vehicle_miles_old> 12500
+			</input_takeaction_more_efficient_vehicle_miles_old>
+			<input_takeaction_more_efficient_vehicle_mpg_old> 22 </input_takeaction_more_efficient_vehicle_mpg_old>
+			<input_takeaction_more_efficient_vehicle_miles_new> 12500
+			</input_takeaction_more_efficient_vehicle_miles_new>
+			<input_takeaction_more_efficient_vehicle_mpg_new> 32 </input_takeaction_more_efficient_vehicle_mpg_new>
+			<input_takeaction_more_efficient_vehicle_sell> 10000 </input_takeaction_more_efficient_vehicle_sell>
+			<input_takeaction_more_efficient_vehicle_purchase> 12000 </input_takeaction_more_efficient_vehicle_purchase>
+			<input_takeaction_alternativefuel_vehicle> 0 </input_takeaction_alternativefuel_vehicle>
+			<input_takeaction_alternativefuel_vehicle_miles_old> 12500
+			</input_takeaction_alternativefuel_vehicle_miles_old>
+			<input_takeaction_alternativefuel_vehicle_mpg_old> 22 </input_takeaction_alternativefuel_vehicle_mpg_old>
+			<input_takeaction_alternativefuel_vehicle_miles_new> 12500
+			</input_takeaction_alternativefuel_vehicle_miles_new>
+			<input_takeaction_alternativefuel_vehicle_mpg_new> 20 </input_takeaction_alternativefuel_vehicle_mpg_new>
+			<input_takeaction_alternativefuel_vehicle_sell> 10000 </input_takeaction_alternativefuel_vehicle_sell>
+			<input_takeaction_alternativefuel_vehicle_purchase> 27000
+			</input_takeaction_alternativefuel_vehicle_purchase>
+			<input_takeaction_alternativefuel_vehicle_rebates> 2000 </input_takeaction_alternativefuel_vehicle_rebates>
+			<input_takeaction_alternativefuel_vehicle_new_fuel_cost> 2.09
+			</input_takeaction_alternativefuel_vehicle_new_fuel_cost>
+			<input_takeaction_electric_vehicle> 0 </input_takeaction_electric_vehicle>
+			<input_takeaction_electric_vehicle_miles_old> 12500 </input_takeaction_electric_vehicle_miles_old>
+			<input_takeaction_electric_vehicle_miles_new> 12500 </input_takeaction_electric_vehicle_miles_new>
+			<input_takeaction_electric_vehicle_mpg_old> 22 </input_takeaction_electric_vehicle_mpg_old>
+			<input_takeaction_electric_vehicle_mpg_new> 99 </input_takeaction_electric_vehicle_mpg_new>
+			<input_takeaction_electric_vehicle_sell> 10000 </input_takeaction_electric_vehicle_sell>
+			<input_takeaction_electric_vehicle_purchase> 25000 </input_takeaction_electric_vehicle_purchase>
+			<input_takeaction_electric_vehicle_rebates> 2000 </input_takeaction_electric_vehicle_rebates>
+			<input_takeaction_hybrid_vehicle> 0 </input_takeaction_hybrid_vehicle>
+			<input_takeaction_hybrid_vehicle_miles_old> 12500 </input_takeaction_hybrid_vehicle_miles_old>
+			<input_takeaction_hybrid_vehicle_mpg_old> 22 </input_takeaction_hybrid_vehicle_mpg_old>
+			<input_takeaction_hybrid_vehicle_miles_new> 12500 </input_takeaction_hybrid_vehicle_miles_new>
+			<input_takeaction_hybrid_vehicle_mpg_new> 40 </input_takeaction_hybrid_vehicle_mpg_new>
+			<input_takeaction_hybrid_vehicle_sell> 10000 </input_takeaction_hybrid_vehicle_sell>
+			<input_takeaction_hybrid_vehicle_purchase> 25000 </input_takeaction_hybrid_vehicle_purchase>
+			<input_takeaction_hybrid_vehicle_rebates> 2000 </input_takeaction_hybrid_vehicle_rebates>
+			<input_takeaction_telecommute_to_work> 0 </input_takeaction_telecommute_to_work>
+			<input_takeaction_telecommute_to_work_miles> 20 </input_takeaction_telecommute_to_work_miles>
+			<input_takeaction_telecommute_to_work_days> 4 </input_takeaction_telecommute_to_work_days>
+			<input_takeaction_telecommute_to_work_mpg> 22 </input_takeaction_telecommute_to_work_mpg>
+			<input_takeaction_telecommute_to_work_times> 2 </input_takeaction_telecommute_to_work_times>
+			<input_takeaction_telecommute_to_work_worth> 0 </input_takeaction_telecommute_to_work_worth>
+			<input_takeaction_telecommute_to_work_parking> 20 </input_takeaction_telecommute_to_work_parking>
+			<input_takeaction_ride_my_bike> 0 </input_takeaction_ride_my_bike>
+			<input_takeaction_ride_my_bike_mpg> 22 </input_takeaction_ride_my_bike_mpg>
+			<input_takeaction_ride_my_bike_miles> 20 </input_takeaction_ride_my_bike_miles>
+			<input_takeaction_ride_my_bike_include_foodemissions> 0
+			</input_takeaction_ride_my_bike_include_foodemissions>
+			<input_takeaction_take_public_transportation> 0 </input_takeaction_take_public_transportation>
+			<input_takeaction_take_public_transportation_type> 0 </input_takeaction_take_public_transportation_type>
+			<input_takeaction_take_public_transportation_miles> 20 </input_takeaction_take_public_transportation_miles>
+			<input_takeaction_take_public_transportation_mpg> 22 </input_takeaction_take_public_transportation_mpg>
+			<input_takeaction_take_public_transportation_parking> 10
+			</input_takeaction_take_public_transportation_parking>
+			<input_takeaction_take_public_transportation_ptfare> 10
+			</input_takeaction_take_public_transportation_ptfare>
+			<input_takeaction_take_public_transportation_gco2bus> 107
+			</input_takeaction_take_public_transportation_gco2bus>
+			<input_takeaction_take_public_transportation_gco2ngbus> 78
+			</input_takeaction_take_public_transportation_gco2ngbus>
+			<input_takeaction_take_public_transportation_gco2transit> 163
+			</input_takeaction_take_public_transportation_gco2transit>
+			<input_takeaction_take_public_transportation_gco2amtrak> 185
+			</input_takeaction_take_public_transportation_gco2amtrak>
+			<input_takeaction_practice_eco_driving> 0 </input_takeaction_practice_eco_driving>
+			<input_takeaction_practice_eco_driving_hwpercent> 50 </input_takeaction_practice_eco_driving_hwpercent>
+			<input_takeaction_practice_eco_driving_topspeed> 70 </input_takeaction_practice_eco_driving_topspeed>
+			<input_takeaction_practice_eco_driving_lowerspeed> 65 </input_takeaction_practice_eco_driving_lowerspeed>
+			<input_takeaction_practice_eco_driving_topspercent> 50 </input_takeaction_practice_eco_driving_topspercent>
+			<input_takeaction_maintain_my_vehicles> 0 </input_takeaction_maintain_my_vehicles>
+			<input_takeaction_maintain_my_vehicles_tires> 1 </input_takeaction_maintain_my_vehicles_tires>
+			<input_takeaction_maintain_my_vehicles_airfilter> 1 </input_takeaction_maintain_my_vehicles_airfilter>
+			<input_takeaction_maintain_my_vehicles_tirespercent> 3.3
+			</input_takeaction_maintain_my_vehicles_tirespercent>
+			<input_takeaction_maintain_my_vehicles_filterpercent> 3
+			</input_takeaction_maintain_my_vehicles_filterpercent>
+			<input_takeaction_maintain_my_vehicles_tirescost> 0 </input_takeaction_maintain_my_vehicles_tirescost>
+			<input_takeaction_maintain_my_vehicles_filtercost> 0 </input_takeaction_maintain_my_vehicles_filtercost>
+			<input_takeaction_carpool_to_work> 0 </input_takeaction_carpool_to_work>
+			<input_takeaction_carpool_to_work_dist> 12 </input_takeaction_carpool_to_work_dist>
+			<input_takeaction_carpool_to_work_days> 3 </input_takeaction_carpool_to_work_days>
+			<input_takeaction_carpool_to_work_passenger> 2 </input_takeaction_carpool_to_work_passenger>
+			<input_takeaction_carpool_to_work_mpgvehc> 20 </input_takeaction_carpool_to_work_mpgvehc>
+			<input_takeaction_carpool_to_work_fees> 0 </input_takeaction_carpool_to_work_fees>
+			<input_takeaction_carpool_to_work_daysper> 0 </input_takeaction_carpool_to_work_daysper>
+			<input_takeaction_carpool_to_work_depvehu> 2 </input_takeaction_carpool_to_work_depvehu>
+			<input_takeaction_carpool_to_work_category> 1 </input_takeaction_carpool_to_work_category>
+			<input_takeaction_carpool_to_work_mpgvehu> 22 </input_takeaction_carpool_to_work_mpgvehu>
+			<input_takeaction_reduce_air_travel> 0 </input_takeaction_reduce_air_travel>
+			<input_takeaction_reduce_air_travel_miles_percent> 10 </input_takeaction_reduce_air_travel_miles_percent>
+			<input_takeaction_offset_transportation> 0 </input_takeaction_offset_transportation>
+			<input_takeaction_offset_transportation_offset> 20 </input_takeaction_offset_transportation_offset>
+			<input_takeaction_switch_to_cfl> 0 </input_takeaction_switch_to_cfl>
+			<input_takeaction_switch_to_cfl_cfl> 5 </input_takeaction_switch_to_cfl_cfl>
+			<input_takeaction_switch_to_cfl_hours> 5 </input_takeaction_switch_to_cfl_hours>
+			<input_takeaction_switch_to_cfl_incanwatt> 75 </input_takeaction_switch_to_cfl_incanwatt>
+			<input_takeaction_switch_to_cfl_cflwatt> 20 </input_takeaction_switch_to_cfl_cflwatt>
+			<input_takeaction_switch_to_cfl_cflcost> 2 </input_takeaction_switch_to_cfl_cflcost>
+			<input_takeaction_switch_to_cfl_incancost> 0.75 </input_takeaction_switch_to_cfl_incancost>
+			<input_takeaction_switch_to_cfl_incanlife> 750 </input_takeaction_switch_to_cfl_incanlife>
+			<input_takeaction_switch_to_cfl_cfllife> 8000 </input_takeaction_switch_to_cfl_cfllife>
+			<input_takeaction_turn_off_lights> 0 </input_takeaction_turn_off_lights>
+			<input_takeaction_turn_off_lights_number> 4 </input_takeaction_turn_off_lights_number>
+			<input_takeaction_turn_off_lights_watts> 50 </input_takeaction_turn_off_lights_watts>
+			<input_takeaction_turn_off_lights_hours> 4 </input_takeaction_turn_off_lights_hours>
+			<input_takeaction_T12toT8> 0 </input_takeaction_T12toT8>
+			<input_takeaction_T12toT8_T8> 5 </input_takeaction_T12toT8_T8>
+			<input_takeaction_T12toT8_hours> 5 </input_takeaction_T12toT8_hours>
+			<input_takeaction_T12toT8_T12watt> 44 </input_takeaction_T12toT8_T12watt>
+			<input_takeaction_T12toT8_T8watt> 25 </input_takeaction_T12toT8_T8watt>
+			<input_takeaction_T12toT8_T8cost> 1.65 </input_takeaction_T12toT8_T8cost>
+			<input_takeaction_tankless_water_heater> 0 </input_takeaction_tankless_water_heater>
+			<input_takeaction_tankless_water_heater_temp> 135 </input_takeaction_tankless_water_heater_temp>
+			<input_takeaction_tankless_water_heater_fueltype> 0 </input_takeaction_tankless_water_heater_fueltype>
+			<input_takeaction_tankless_water_heater_replacements> 1
+			</input_takeaction_tankless_water_heater_replacements>
+			<input_takeaction_tankless_water_heater_replacement_cost> 500
+			</input_takeaction_tankless_water_heater_replacement_cost>
+			<input_takeaction_thermostat_winter> 0 </input_takeaction_thermostat_winter>
+			<input_takeaction_thermostat_winter_fueltype> 0 </input_takeaction_thermostat_winter_fueltype>
+			<input_takeaction_thermostat_winter_percentuse> 1 </input_takeaction_thermostat_winter_percentuse>
+			<input_takeaction_thermostat_winter_hdd> 4506 </input_takeaction_thermostat_winter_hdd>
+			<input_takeaction_thermostat_winter_daydegrees> 8 </input_takeaction_thermostat_winter_daydegrees>
+			<input_takeaction_thermostat_winter_nightdegrees> 8 </input_takeaction_thermostat_winter_nightdegrees>
+			<input_takeaction_thermostat_winter_wdsetup> 10 </input_takeaction_thermostat_winter_wdsetup>
+			<input_takeaction_thermostat_winter_fueloilprice> 200 </input_takeaction_thermostat_winter_fueloilprice>
+			<input_takeaction_thermostat_winter_wdntsetup> 8 </input_takeaction_thermostat_winter_wdntsetup>
+			<input_takeaction_thermostat_winter_wesetup> 10 </input_takeaction_thermostat_winter_wesetup>
+			<input_takeaction_thermostat_winter_wentsetup> 8 </input_takeaction_thermostat_winter_wentsetup>
+			<input_takeaction_thermostat_summer> 0 </input_takeaction_thermostat_summer>
+			<input_takeaction_thermostat_summer_daydegrees> 4 </input_takeaction_thermostat_summer_daydegrees>
+			<input_takeaction_thermostat_summer_nightdegrees> 4 </input_takeaction_thermostat_summer_nightdegrees>
+			<input_takeaction_thermostat_summer_cdd> 1278 </input_takeaction_thermostat_summer_cdd>
+			<input_takeaction_thermostat_summer_percentuse> 1 </input_takeaction_thermostat_summer_percentuse>
+			<input_takeaction_thermostat_summer_wdsetup> 10 </input_takeaction_thermostat_summer_wdsetup>
+			<input_takeaction_thermostat_summer_wdntsetup> 8 </input_takeaction_thermostat_summer_wdntsetup>
+			<input_takeaction_thermostat_summer_wesetup> 10 </input_takeaction_thermostat_summer_wesetup>
+			<input_takeaction_thermostat_summer_wentsetup> 8 </input_takeaction_thermostat_summer_wentsetup>
+			<input_takeaction_purchase_high_efficiency_cooling> 0 </input_takeaction_purchase_high_efficiency_cooling>
+			<input_takeaction_purchase_high_efficiency_cooling_cdd> 1278
+			</input_takeaction_purchase_high_efficiency_cooling_cdd>
+			<input_takeaction_purchase_high_efficiency_cooling_percentuse> 1.6
+			</input_takeaction_purchase_high_efficiency_cooling_percentuse>
+			<input_takeaction_purchase_high_efficiency_cooling_conventional_rating> 13
+			</input_takeaction_purchase_high_efficiency_cooling_conventional_rating>
+			<input_takeaction_purchase_high_efficiency_cooling_energystar_rating> 14.5
+			</input_takeaction_purchase_high_efficiency_cooling_energystar_rating>
+			<input_takeaction_purchase_high_efficiency_cooling_cost_difference> 556
+			</input_takeaction_purchase_high_efficiency_cooling_cost_difference>
+			<input_takeaction_purchase_high_efficiency_heating> 0 </input_takeaction_purchase_high_efficiency_heating>
+			<input_takeaction_purchase_high_efficiency_heating_fueltype> 0
+			</input_takeaction_purchase_high_efficiency_heating_fueltype>
+			<input_takeaction_purchase_high_efficiency_heating_percentuse> 1
+			</input_takeaction_purchase_high_efficiency_heating_percentuse>
+			<input_takeaction_purchase_high_efficiency_heating_hdd> 4506
+			</input_takeaction_purchase_high_efficiency_heating_hdd>
+			<input_takeaction_purchase_high_efficiency_heating_fueloilprice> 200
+			</input_takeaction_purchase_high_efficiency_heating_fueloilprice>
+			<input_takeaction_purchase_high_efficiency_heating_conventional_eff> 0.78
+			</input_takeaction_purchase_high_efficiency_heating_conventional_eff>
+			<input_takeaction_purchase_high_efficiency_heating_energystar_eff> 0.9
+			</input_takeaction_purchase_high_efficiency_heating_energystar_eff>
+			<input_takeaction_purchase_high_efficiency_heating_cost_difference> 300
+			</input_takeaction_purchase_high_efficiency_heating_cost_difference>
+			<input_takeaction_energy_star_fridge> 0 </input_takeaction_energy_star_fridge>
+			<input_takeaction_energy_star_fridge_fridgetype> 5 </input_takeaction_energy_star_fridge_fridgetype>
+			<input_takeaction_energy_star_fridge_fridgecost> 30 </input_takeaction_energy_star_fridge_fridgecost>
+			<input_takeaction_energy_star_fridge_fresh> 14.75 </input_takeaction_energy_star_fridge_fresh>
+			<input_takeaction_energy_star_fridge_freezer> 6.76 </input_takeaction_energy_star_fridge_freezer>
+			<input_takeaction_energy_star_printers> 0 </input_takeaction_energy_star_printers>
+			<input_takeaction_energy_star_printers_amount> 2 </input_takeaction_energy_star_printers_amount>
+			<input_takeaction_energy_star_printers_annual_savings> 30
+			</input_takeaction_energy_star_printers_annual_savings>
+			<input_takeaction_energy_star_printers_cost> 100 </input_takeaction_energy_star_printers_cost>
+			<input_takeaction_energy_star_copiers> 0 </input_takeaction_energy_star_copiers>
+			<input_takeaction_energy_star_copiers_amount> 2 </input_takeaction_energy_star_copiers_amount>
+			<input_takeaction_energy_star_copiers_annual_savings> 40
+			</input_takeaction_energy_star_copiers_annual_savings>
+			<input_takeaction_energy_star_copiers_cost> 200 </input_takeaction_energy_star_copiers_cost>
+			<input_takeaction_energy_star_desktops> 0 </input_takeaction_energy_star_desktops>
+			<input_takeaction_energy_star_desktops_amount> 1 </input_takeaction_energy_star_desktops_amount>
+			<input_takeaction_energy_star_desktops_annual_savings> 60
+			</input_takeaction_energy_star_desktops_annual_savings>
+			<input_takeaction_energy_star_desktops_cost> 500 </input_takeaction_energy_star_desktops_cost>
+			<input_takeaction_rechargeable_batteries> 0 </input_takeaction_rechargeable_batteries>
+			<input_takeaction_rechargeable_batteries_amount_aaa> 4 </input_takeaction_rechargeable_batteries_amount_aaa>
+			<input_takeaction_rechargeable_batteries_amount_aa> 4 </input_takeaction_rechargeable_batteries_amount_aa>
+			<input_takeaction_rechargeable_batteries_amount_c> 1 </input_takeaction_rechargeable_batteries_amount_c>
+			<input_takeaction_rechargeable_batteries_amount_d> 1 </input_takeaction_rechargeable_batteries_amount_d>
+			<input_takeaction_rechargeable_batteries_amount_9v> 1 </input_takeaction_rechargeable_batteries_amount_9v>
+			<input_takeaction_rechargeable_batteries_weight_aaa> 10.5
+			</input_takeaction_rechargeable_batteries_weight_aaa>
+			<input_takeaction_rechargeable_batteries_weight_aa> 22.7
+			</input_takeaction_rechargeable_batteries_weight_aa>
+			<input_takeaction_rechargeable_batteries_weight_c> 54 </input_takeaction_rechargeable_batteries_weight_c>
+			<input_takeaction_rechargeable_batteries_weight_d> 120 </input_takeaction_rechargeable_batteries_weight_d>
+			<input_takeaction_rechargeable_batteries_weight_9v> 41 </input_takeaction_rechargeable_batteries_weight_9v>
+			<input_takeaction_rechargeable_batteries_cost_aaa> 1.14 </input_takeaction_rechargeable_batteries_cost_aaa>
+			<input_takeaction_rechargeable_batteries_cost_aa> 1.07 </input_takeaction_rechargeable_batteries_cost_aa>
+			<input_takeaction_rechargeable_batteries_cost_c> 2.16 </input_takeaction_rechargeable_batteries_cost_c>
+			<input_takeaction_rechargeable_batteries_cost_d> 2.21 </input_takeaction_rechargeable_batteries_cost_d>
+			<input_takeaction_rechargeable_batteries_cost_9v> 4.17 </input_takeaction_rechargeable_batteries_cost_9v>
+			<input_takeaction_rechargeable_batteries_uses> 200 </input_takeaction_rechargeable_batteries_uses>
+			<input_takeaction_rechargeable_batteries_cost_multiple> 3
+			</input_takeaction_rechargeable_batteries_cost_multiple>
+			<input_takeaction_rechargeable_batteries_charge_energy> 0.079
+			</input_takeaction_rechargeable_batteries_charge_energy>
+			<input_takeaction_rechargeable_batteries_carbon_emissions> 0.00101
+			</input_takeaction_rechargeable_batteries_carbon_emissions>
+			<input_takeaction_power_mgmt_comp> 0 </input_takeaction_power_mgmt_comp>
+			<input_takeaction_power_mgmt_comp_desktops> 1 </input_takeaction_power_mgmt_comp_desktops>
+			<input_takeaction_power_mgmt_comp_monitors> 1 </input_takeaction_power_mgmt_comp_monitors>
+			<input_takeaction_power_mgmt_comp_percent_d> 1 </input_takeaction_power_mgmt_comp_percent_d>
+			<input_takeaction_power_mgmt_comp_percent_m> 1 </input_takeaction_power_mgmt_comp_percent_m>
+			<input_takeaction_purchase_green_electricity> 0 </input_takeaction_purchase_green_electricity>
+			<input_takeaction_purchase_green_electricity_percentclean> 1
+			</input_takeaction_purchase_green_electricity_percentclean>
+			<input_takeaction_purchase_green_electricity_costclean> 20
+			</input_takeaction_purchase_green_electricity_costclean>
+			<input_takeaction_purchase_green_electricity_kwhcost> 11
+			</input_takeaction_purchase_green_electricity_kwhcost>
+			<input_takeaction_install_PV_panels> 0 </input_takeaction_install_PV_panels>
+			<input_takeaction_install_PV_panels_percent> 1 </input_takeaction_install_PV_panels_percent>
+			<input_takeaction_install_PV_panels_w_cost> 3.4 </input_takeaction_install_PV_panels_w_cost>
+			<input_takeaction_install_solar_heating> 0 </input_takeaction_install_solar_heating>
+			<input_takeaction_install_solar_heating_percent> 0.05 </input_takeaction_install_solar_heating_percent>
+			<input_takeaction_install_solar_heating_cost> 2500 </input_takeaction_install_solar_heating_cost>
+			<input_takeaction_install_solar_heating_ng_consumption> 12159.201558
+			</input_takeaction_install_solar_heating_ng_consumption>
+			<input_takeaction_low_flow_showerheads> 0 </input_takeaction_low_flow_showerheads>
+			<input_takeaction_low_flow_showerheads_amount> 2 </input_takeaction_low_flow_showerheads_amount>
+			<input_takeaction_low_flow_showerheads_amount_replaced> 2
+			</input_takeaction_low_flow_showerheads_amount_replaced>
+			<input_takeaction_low_flow_showerheads_avg_showers> 5 </input_takeaction_low_flow_showerheads_avg_showers>
+			<input_takeaction_low_flow_showerheads_cost> 15 </input_takeaction_low_flow_showerheads_cost>
+			<input_takeaction_low_flow_showerheads_old_flow> 2.5 </input_takeaction_low_flow_showerheads_old_flow>
+			<input_takeaction_low_flow_showerheads_new_flow> 2 </input_takeaction_low_flow_showerheads_new_flow>
+			<input_takeaction_low_flow_showerheads_nat_gas_gallon> 0.38
+			</input_takeaction_low_flow_showerheads_nat_gas_gallon>
+			<input_takeaction_low_flow_showerheads_length> 8 </input_takeaction_low_flow_showerheads_length>
+			<input_takeaction_low_flow_faucets> 0 </input_takeaction_low_flow_faucets>
+			<input_takeaction_low_flow_faucets_amount> 2 </input_takeaction_low_flow_faucets_amount>
+			<input_takeaction_low_flow_faucets_replaced> 2 </input_takeaction_low_flow_faucets_replaced>
+			<input_takeaction_low_flow_faucets_cost> 10 </input_takeaction_low_flow_faucets_cost>
+			<input_takeaction_low_flow_faucets_avg_daily_use> 10 </input_takeaction_low_flow_faucets_avg_daily_use>
+			<input_takeaction_low_flow_faucets_minutes> 1 </input_takeaction_low_flow_faucets_minutes>
+			<input_takeaction_low_flow_faucets_conventional> 2.5 </input_takeaction_low_flow_faucets_conventional>
+			<input_takeaction_low_flow_faucets_efficient> 1.8 </input_takeaction_low_flow_faucets_efficient>
+			<input_takeaction_low_flow_toilet> 0 </input_takeaction_low_flow_toilet>
+			<input_takeaction_low_flow_toilet_old> 3.5 </input_takeaction_low_flow_toilet_old>
+			<input_takeaction_low_flow_toilet_new> 1.5 </input_takeaction_low_flow_toilet_new>
+			<input_takeaction_low_flow_toilet_cost> 260 </input_takeaction_low_flow_toilet_cost>
+			<input_takeaction_low_flow_toilet_amount> 2 </input_takeaction_low_flow_toilet_amount>
+			<input_takeaction_line_dry_clothing> 0 </input_takeaction_line_dry_clothing>
+			<input_takeaction_line_dry_clothing_percentdry> 0.5 </input_takeaction_line_dry_clothing_percentdry>
+			<input_takeaction_line_dry_clothing_dryerldwk> 7 </input_takeaction_line_dry_clothing_dryerldwk>
+			<input_takeaction_water_efficient_landscaping> 0 </input_takeaction_water_efficient_landscaping>
+			<input_takeaction_water_efficient_landscaping_grass_old> 0.5
+			</input_takeaction_water_efficient_landscaping_grass_old>
+			<input_takeaction_water_efficient_landscaping_plants_old> 0.25
+			</input_takeaction_water_efficient_landscaping_plants_old>
+			<input_takeaction_water_efficient_landscaping_drought_old> 0.25
+			</input_takeaction_water_efficient_landscaping_drought_old>
+			<input_takeaction_water_efficient_landscaping_grass_new> 0.25
+			</input_takeaction_water_efficient_landscaping_grass_new>
+			<input_takeaction_water_efficient_landscaping_plants_new> 0.25
+			</input_takeaction_water_efficient_landscaping_plants_new>
+			<input_takeaction_water_efficient_landscaping_drought_new> 0.5
+			</input_takeaction_water_efficient_landscaping_drought_new>
+			<input_takeaction_water_efficient_landscaping_grass_drip_old> 0
+			</input_takeaction_water_efficient_landscaping_grass_drip_old>
+			<input_takeaction_water_efficient_landscaping_plant_drip_old> 0.25
+			</input_takeaction_water_efficient_landscaping_plant_drip_old>
+			<input_takeaction_water_efficient_landscaping_grass_drip_new> 0
+			</input_takeaction_water_efficient_landscaping_grass_drip_new>
+			<input_takeaction_water_efficient_landscaping_plant_drip_new> 1
+			</input_takeaction_water_efficient_landscaping_plant_drip_new>
+			<input_takeaction_water_efficient_landscaping_cost_drip> 0.2
+			</input_takeaction_water_efficient_landscaping_cost_drip>
+			<input_takeaction_water_efficient_landscaping_cost_drought> 0.2
+			</input_takeaction_water_efficient_landscaping_cost_drought>
+			<input_takeaction_water_efficient_landscaping_sqft> 3700
+			</input_takeaction_water_efficient_landscaping_sqft>
+			<input_takeaction_plant_trees> 0 </input_takeaction_plant_trees>
+			<input_takeaction_plant_trees_amount> 5 </input_takeaction_plant_trees_amount>
+			<input_takeaction_plant_trees_cost> 200 </input_takeaction_plant_trees_cost>
+			<input_takeaction_plant_trees_offset> 10 </input_takeaction_plant_trees_offset>
+			<input_takeaction_reduce_comm_waste> 0 </input_takeaction_reduce_comm_waste>
+			<input_takeaction_reduce_comm_waste_per_week> 0.5 </input_takeaction_reduce_comm_waste_per_week>
+			<input_takeaction_reduce_comm_waste_percent> 0.25 </input_takeaction_reduce_comm_waste_percent>
+			<input_takeaction_print_double_sided> 0 </input_takeaction_print_double_sided>
+			<input_takeaction_print_double_sided_number> 100 </input_takeaction_print_double_sided_number>
+			<input_takeaction_offset_housing> 0 </input_takeaction_offset_housing>
+			<input_takeaction_offset_housing_offset> 20 </input_takeaction_offset_housing_offset>
+			<input_takeaction_low_carbon_diet> 0 </input_takeaction_low_carbon_diet>
+			<input_takeaction_low_carbon_diet_meatfootprint> 0.45 </input_takeaction_low_carbon_diet_meatfootprint>
+			<input_takeaction_low_carbon_diet_dairyfootprint> 0.65 </input_takeaction_low_carbon_diet_dairyfootprint>
+			<input_takeaction_low_carbon_diet_fvfootprint> 1.8 </input_takeaction_low_carbon_diet_fvfootprint>
+			<input_takeaction_low_carbon_diet_cerealsfootprint> 1.45
+			</input_takeaction_low_carbon_diet_cerealsfootprint>
+			<input_takeaction_low_carbon_diet_otherfootprint> 0.45 </input_takeaction_low_carbon_diet_otherfootprint>
+			<input_takeaction_go_organic> 0 </input_takeaction_go_organic>
+			<input_takeaction_go_organic_myproduce> 0.9 </input_takeaction_go_organic_myproduce>
+			<input_takeaction_go_organic_mymeat> 0.9 </input_takeaction_go_organic_mymeat>
+			<input_takeaction_go_organic_mydairy> 0.9 </input_takeaction_go_organic_mydairy>
+			<input_takeaction_go_organic_eatorgproduce> 0 </input_takeaction_go_organic_eatorgproduce>
+			<input_takeaction_go_organic_eatorgmeat> 0 </input_takeaction_go_organic_eatorgmeat>
+			<input_takeaction_go_organic_eatorgdairy> 0 </input_takeaction_go_organic_eatorgdairy>
+			<input_takeaction_go_organic_pledgeorgprod> 0.5 </input_takeaction_go_organic_pledgeorgprod>
+			<input_takeaction_go_organic_pledgeorgmeat> 0.5 </input_takeaction_go_organic_pledgeorgmeat>
+			<input_takeaction_go_organic_pledgedairy> 0.5 </input_takeaction_go_organic_pledgedairy>
+			<input_takeaction_go_organic_myprodcost> 1.6 </input_takeaction_go_organic_myprodcost>
+			<input_takeaction_go_organic_mymeatcost> 1.6 </input_takeaction_go_organic_mymeatcost>
+			<input_takeaction_go_organic_mydairycost> 1.6 </input_takeaction_go_organic_mydairycost>
+			<input_takeaction_offset_shopping> 0 </input_takeaction_offset_shopping>
+			<input_takeaction_offset_shopping_offset> 20 </input_takeaction_offset_shopping_offset>
+			<input_takeaction_assumption_price_of_gasoline> 3.5 </input_takeaction_assumption_price_of_gasoline>
+			<input_takeaction_assumption_kwhprice> 10 </input_takeaction_assumption_kwhprice>
+			<input_takeaction_assumption_ngprice> 1.27 </input_takeaction_assumption_ngprice>
+			<input_takeaction_assumption_discountrate> 8 </input_takeaction_assumption_discountrate>
+			<input_takeaction_assumption_inflationrate> 3 </input_takeaction_assumption_inflationrate>
+			<result_motor_vehicles_direct> 9.156355 </result_motor_vehicles_direct>
+			<result_motor_vehicles_indirect> 2.380652 </result_motor_vehicles_indirect>
+			<result_vehicle_manufact> 1.2712 </result_vehicle_manufact>
+			<result_air_travel_direct> 0.825718 </result_air_travel_direct>
+			<result_air_travel_indirect> 0.825718 </result_air_travel_indirect>
+			<result_electricity_direct> 4.8685 </result_electricity_direct>
+			<result_electricity_indirect> 0.438165 </result_electricity_indirect>
+			<result_publictrans_direct> 0.07382 </result_publictrans_direct>
+			<result_publictrans_indirect> 0.019193 </result_publictrans_indirect>
+			<result_natgas_direct> 2.36885 </result_natgas_direct>
+			<result_natgas_indirect> 0.331639 </result_natgas_indirect>
+			<result_heatingoil_direct> 0.7862 </result_heatingoil_direct>
+			<result_heatingoil_indirect> 0.2044 </result_heatingoil_indirect>
+			<result_watersewage> 1.25 </result_watersewage>
+			<result_shelter> 1.7205 </result_shelter>
+			<result_food_meat> 2.740046 </result_food_meat>
+			<result_food_dairy> 1.0439 </result_food_dairy>
+			<result_food_other> 1.504384 </result_food_other>
+			<result_food_fruitsveg> 0.828413 </result_food_fruitsveg>
+			<result_food_cereals> 0.885171 </result_food_cereals>
+			<result_goods_clothing> 1.903781 </result_goods_clothing>
+			<result_goods_furniture> 1.944866 </result_goods_furniture>
+			<result_goods_other> 2.952468 </result_goods_other>
+			<result_services_all> 6.022237 </result_services_all>
+			<result_transport_total> 14.552656 </result_transport_total>
+			<result_housing_total> 11.968254 </result_housing_total>
+			<result_food_total> 7.001914 </result_food_total>
+			<result_goods_total> 6.801115 </result_goods_total>
+			<result_services_total> 6.022237 </result_services_total>
+			<result_grand_total> 46.346175 </result_grand_total>
+			<result_takeaction_pounds>
+				{"more_efficient_vehicle":1.98,"alternativefuel_vehicle":2.1,"electric_vehicle":6.28,"hybrid_vehicle":2.86,"telecommute_to_work":0.98,"ride_my_bike":0.53,"take_public_transportation":0.42,"practice_eco_driving":0.93,"maintain_my_vehicles":0.73,"carpool_to_work":0.85,"reduce_air_travel":0.17,"offset_transportation":14.55,"switch_to_cfl":0.3,"turn_off_lights":0.17,"T12toT8":0.1,"tankless_water_heater":0.03,"thermostat_winter":0.52,"thermostat_summer":0.25,"purchase_high_efficiency_cooling":0.02,"purchase_high_efficiency_heating":0.01,"energy_star_fridge":0.08,"energy_star_printers":0.04,"energy_star_copiers":0.05,"energy_star_desktops":0.04,"rechargeable_batteries":0.21,"power_mgmt_comp":0.44,"purchase_green_electricity":6.32,"install_PV_panels":6.31,"install_solar_heating":0.04,"low_flow_showerheads":0.36,"low_flow_faucets":0,"low_flow_toilet":0,"line_dry_clothing":0.36,"water_efficient_landscaping":0.01,"plant_trees":0.3,"reduce_comm_waste":0.42,"print_double_sided":0.26,"offset_housing":11.97,"low_carbon_diet":1.72,"go_organic":0.17,"offset_shopping":19.83}
+			</result_takeaction_pounds>
+			<result_takeaction_dollars>
+				{"more_efficient_vehicle":621.45,"alternativefuel_vehicle":682.39,"electric_vehicle":1676.14,"hybrid_vehicle":894.89,"telecommute_to_work":545.45,"ride_my_bike":165.45,"take_public_transportation":165.45,"practice_eco_driving":290.56,"maintain_my_vehicles":227.51,"carpool_to_work":361.64,"reduce_air_travel":37,"offset_transportation":0,"switch_to_cfl":50.19,"turn_off_lights":29.2,"T12toT8":17.34,"tankless_water_heater":200,"thermostat_winter":119.73,"thermostat_summer":42.56,"purchase_high_efficiency_cooling":3.01,"purchase_high_efficiency_heating":3.41,"energy_star_fridge":13.26,"energy_star_printers":6,"energy_star_copiers":8,"energy_star_desktops":6,"rechargeable_batteries":625.65,"power_mgmt_comp":75,"purchase_green_electricity":0,"install_PV_panels":1070,"install_solar_heating":5.13,"low_flow_showerheads":99.66,"low_flow_faucets":5.11,"low_flow_toilet":0,"line_dry_clothing":60.35,"water_efficient_landscaping":14.6,"plant_trees":50,"reduce_comm_waste":17.22,"print_double_sided":15.6,"offset_housing":0,"low_carbon_diet":1047.27,"go_organic":0,"offset_shopping":0}
+			</result_takeaction_dollars>
+			<result_takeaction_net10yr>
+				{"more_efficient_vehicle":2000,"alternativefuel_vehicle":17000,"electric_vehicle":15000,"hybrid_vehicle":15000,"telecommute_to_work":0,"ride_my_bike":0,"take_public_transportation":0,"practice_eco_driving":0,"maintain_my_vehicles":0,"carpool_to_work":0,"reduce_air_travel":0,"offset_transportation":291.05,"switch_to_cfl":10,"turn_off_lights":0,"T12toT8":8.25,"tankless_water_heater":500,"thermostat_winter":0,"thermostat_summer":0,"purchase_high_efficiency_cooling":556,"purchase_high_efficiency_heating":300,"energy_star_fridge":30,"energy_star_printers":200,"energy_star_copiers":400,"energy_star_desktops":500,"rechargeable_batteries":52.14,"power_mgmt_comp":0,"purchase_green_electricity":126.26,"install_PV_panels":21680.57,"install_solar_heating":2500,"low_flow_showerheads":30,"low_flow_faucets":20,"low_flow_toilet":520,"line_dry_clothing":0,"water_efficient_landscaping":832.5,"plant_trees":1000,"reduce_comm_waste":0,"print_double_sided":0,"offset_housing":239.37,"low_carbon_diet":0,"go_organic":380.17,"offset_shopping":396.51}
+			</result_takeaction_net10yr>
+			<result_takeaction_transport_total> 14.552656 </result_takeaction_transport_total>
+			<result_takeaction_housing_total> 11.968254 </result_takeaction_housing_total>
+			<result_takeaction_shopping_food_total> 7.001914 </result_takeaction_shopping_food_total>
+			<result_takeaction_shopping_goods_total> 6.801115 </result_takeaction_shopping_goods_total>
+			<result_takeaction_shopping_services_total> 6.022237 </result_takeaction_shopping_services_total>
+			<result_takeaction_grand_total> 46.346175 </result_takeaction_grand_total>
+			<result_utility_providers> [{"company":"US
+				Average","utility_number":"1","weighted_emission_rate":"590","percent_coal":"0.48453","percent_oil":"0.01576","percent_natgas":"0.21679","percent_hydro":"0.05782","percent_fossil":"0.72226","percent_renewables":"0.02503","percent_nuclear":"0.1938","percent_other":"0.00109","percent_biomass":"0.01308","percent_wind":"0.00828","percent_solar":"0.00015","percent_geothermal":"0.00352","percent_otherfossil":"0.00518","percent_oil_other_fossil":"0.02094"}]
+			</result_utility_providers>
+			<result_takeaction_carfuel_reduction> 0 </result_takeaction_carfuel_reduction>
+			<result_takeaction_carmfg_reduction> 0 </result_takeaction_carmfg_reduction>
+			<result_takeaction_pubtrans_reduction> 0 </result_takeaction_pubtrans_reduction>
+			<result_takeaction_airtravel_reduction> 0 </result_takeaction_airtravel_reduction>
+			<result_takeaction_electricity_reduction> 0 </result_takeaction_electricity_reduction>
+			<result_takeaction_natgas_reduction> 0 </result_takeaction_natgas_reduction>
+			<result_takeaction_otherfuels_reduction> 0 </result_takeaction_otherfuels_reduction>
+			<result_takeaction_watersewage_reduction> 0 </result_takeaction_watersewage_reduction>
+			<result_takeaction_construction_reduction> 0 </result_takeaction_construction_reduction>
+			<result_takeaction_meat_reduction> 0 </result_takeaction_meat_reduction>
+			<result_takeaction_dairy_reduction> 0 </result_takeaction_dairy_reduction>
+			<result_takeaction_fruitsveg_reduction> 0 </result_takeaction_fruitsveg_reduction>
+			<result_takeaction_cereals_reduction> 0 </result_takeaction_cereals_reduction>
+			<result_takeaction_foodother_reduction> 0 </result_takeaction_foodother_reduction>
+			<result_takeaction_clothing_reduction> 0 </result_takeaction_clothing_reduction>
+			<result_takeaction_furniture_reduction> 0 </result_takeaction_furniture_reduction>
+			<result_takeaction_goodsother_reduction> 0 </result_takeaction_goodsother_reduction>
+			<result_takeaction_servicesall_reduction> 0 </result_takeaction_servicesall_reduction>
+			<result_takeaction_upfront />
+				<result_takeaction_ride_my_bike_totalcalories> 2505 </result_takeaction_ride_my_bike_totalcalories>
+				<result_takeaction_ride_my_bike_ghgper100cal> 306.320559 </result_takeaction_ride_my_bike_ghgper100cal>
+				<result_takeaction_ride_my_bike_bikeghgs> 0.086884 </result_takeaction_ride_my_bike_bikeghgs>
+				<result_takeaction_ride_my_bike_driveghgs> 0.528457 </result_takeaction_ride_my_bike_driveghgs>
+				<result_takeaction_practice_eco_driving_dispmiles> 22700
+				</result_takeaction_practice_eco_driving_dispmiles>
+				<result_takeaction_practice_eco_driving_newmpg> 23.926088
+				</result_takeaction_practice_eco_driving_newmpg>
+				<result_takeaction_practice_eco_driving_galsaved> 83.01608
+				</result_takeaction_practice_eco_driving_galsaved>
+				<result_takeaction_practice_eco_driving_mpg> 22.001 </result_takeaction_practice_eco_driving_mpg>
+				<result_takeaction_carpool_to_work_dep1k> 0.05 </result_takeaction_carpool_to_work_dep1k>
+				<result_takeaction_carpool_to_work_mpgvehu />
+					<result_takeaction_reduce_air_travel_pounds_from_flight> 1.6502
+					</result_takeaction_reduce_air_travel_pounds_from_flight>
+					<result_takeaction_offset_transportation_transtonsleft> 14.552656
+					</result_takeaction_offset_transportation_transtonsleft>
+					<result_takeaction_offset_transportation_transpledges> 0
+					</result_takeaction_offset_transportation_transpledges>
+					<result_takeaction_energy_star_fridge_totvolume> 21.51
+					</result_takeaction_energy_star_fridge_totvolume>
+					<result_takeaction_energy_star_fridge_fridgekwh> 662.84176
+					</result_takeaction_energy_star_fridge_fridgekwh>
+					<result_takeaction_energy_star_fridge_ESfridgekwh> 530.273408
+					</result_takeaction_energy_star_fridge_ESfridgekwh>
+					<result_takeaction_maintain_my_vehicles_mpg> 22.001 </result_takeaction_maintain_my_vehicles_mpg>
+					<result_takeaction_maintain_my_vehicles_dispmiles> 22700
+					</result_takeaction_maintain_my_vehicles_dispmiles>
+					<result_takeaction_reduce_air_travel_totalmiles> 3700
+					</result_takeaction_reduce_air_travel_totalmiles>
+					<result_takeaction_reduce_air_travel_miles_alt> 370 </result_takeaction_reduce_air_travel_miles_alt>
+					<result_takeaction_thermostat_winter_dollarstypical> 670
+					</result_takeaction_thermostat_winter_dollarstypical>
+					<result_takeaction_thermostat_winter_dollarsuse> 670
+					</result_takeaction_thermostat_winter_dollarsuse>
+					<result_takeaction_thermostat_winter_intensity> 6280
+					</result_takeaction_thermostat_winter_intensity>
+					<result_takeaction_thermostat_winter_gCO2fueltype> 55
+					</result_takeaction_thermostat_winter_gCO2fueltype>
+					<result_takeaction_thermostat_winter_pu> 52376 </result_takeaction_thermostat_winter_pu>
+					<result_takeaction_thermostat_summer_dollarstypical> 240
+					</result_takeaction_thermostat_summer_dollarstypical>
+					<result_takeaction_thermostat_summer_kwhtypical> 2364
+					</result_takeaction_thermostat_summer_kwhtypical>
+					<result_takeaction_thermostat_summer_dollarsuse> 240
+					</result_takeaction_thermostat_summer_dollarsuse>
+					<result_takeaction_thermostat_summer_kwhuse> 2364 </result_takeaction_thermostat_summer_kwhuse>
+					<result_takeaction_purchase_high_efficiency_cooling_dollarstypical> 240
+					</result_takeaction_purchase_high_efficiency_cooling_dollarstypical>
+					<result_takeaction_purchase_high_efficiency_cooling_kwhtypical> 2364
+					</result_takeaction_purchase_high_efficiency_cooling_kwhtypical>
+					<result_takeaction_purchase_high_efficiency_cooling_dollarsuse> 380
+					</result_takeaction_purchase_high_efficiency_cooling_dollarsuse>
+					<result_takeaction_purchase_high_efficiency_cooling_kwhuse> 3783
+					</result_takeaction_purchase_high_efficiency_cooling_kwhuse>
+					<result_takeaction_purchase_high_efficiency_heating_dollarstypical> 670
+					</result_takeaction_purchase_high_efficiency_heating_dollarstypical>
+					<result_takeaction_purchase_high_efficiency_heating_dollarsuse> 670
+					</result_takeaction_purchase_high_efficiency_heating_dollarsuse>
+					<result_takeaction_purchase_high_efficiency_heating_intensity> 6283
+					</result_takeaction_purchase_high_efficiency_heating_intensity>
+					<result_takeaction_purchase_high_efficiency_heating_gCO2fueltype> 55
+					</result_takeaction_purchase_high_efficiency_heating_gCO2fueltype>
+					<result_takeaction_purchase_high_efficiency_heating_pu> 52376
+					</result_takeaction_purchase_high_efficiency_heating_pu>
+					<result_takeaction_purchase_green_electricity_kwhCO2yr> 6.313
+					</result_takeaction_purchase_green_electricity_kwhCO2yr>
+					<result_takeaction_line_dry_clothing_dryerkwhyr> 1207
+					</result_takeaction_line_dry_clothing_dryerkwhyr>
+					<result_takeaction_line_dry_clothing_dryercostyr> 120
+					</result_takeaction_line_dry_clothing_dryercostyr>
+					<result_takeaction_offset_housing_transtonsleft> 11.968254
+					</result_takeaction_offset_housing_transtonsleft>
+					<result_takeaction_offset_housing_transpledges> 0 </result_takeaction_offset_housing_transpledges>
+					<result_takeaction_low_carbon_diet_meatcal> 244 </result_takeaction_low_carbon_diet_meatcal>
+					<result_takeaction_low_carbon_diet_dairycal> 186 </result_takeaction_low_carbon_diet_dairycal>
+					<result_takeaction_low_carbon_diet_fvcal> 488 </result_takeaction_low_carbon_diet_fvcal>
+					<result_takeaction_low_carbon_diet_cerealscal> 970 </result_takeaction_low_carbon_diet_cerealscal>
+					<result_takeaction_low_carbon_diet_othercal> 331 </result_takeaction_low_carbon_diet_othercal>
+					<result_takeaction_low_carbon_diet_totalcal> 2219 </result_takeaction_low_carbon_diet_totalcal>
+					<result_takeaction_offset_shopping_transtonsleft> 19.825266
+					</result_takeaction_offset_shopping_transtonsleft>
+					<result_takeaction_offset_shopping_transpledges> 0 </result_takeaction_offset_shopping_transpledges>
+					<internal_state_abbreviation> US </internal_state_abbreviation>
+					<internal_vehiclemiles> 22715.8 </internal_vehiclemiles>
+					<internal_test />
+</response>
